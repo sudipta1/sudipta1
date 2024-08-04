@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudipta Nayak
 - 👀 I’m interested in Cloud Computing & DevOps
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure & AWS
 - 💞️ I’m looking to collaborate with Tech Enthusiasts in the field of DevOps & Cloud
 - 📫 Reach out to me on Linkedn : https://www.linkedin.com/in/user-sudipta
